@@ -20,7 +20,7 @@ export const Form = ({ addDiscussion }) => {
             <input type="text" name="title" id="title" required />
           </div>
           <div className="form__textbox">
-            <label htmlFor="story">Your question2: </label>
+            <label htmlFor="story">Your question3: </label>
             <textarea
               id="story"
               name="story"
